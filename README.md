@@ -1,1 +1,1 @@
-# automated-screening-tool-armd
+# automatedscreeningtool-armd
